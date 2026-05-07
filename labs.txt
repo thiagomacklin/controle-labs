@@ -1,10 +1,10 @@
 lab01=aula
-lab02=prova
+lab02=aula
 lab03=aula
-lab04=prova
+lab04=aula
 lab05=aula
 lab06=aula
-lab07=prova
+lab07=aula
 lab08=aula
 lab09=aula
 lab10=prova
