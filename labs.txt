@@ -1,4 +1,4 @@
-lab01=prova
+lab01=aula
 lab02=prova
 lab03=aula
 lab04=prova
