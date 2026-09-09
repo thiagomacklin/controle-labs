@@ -1,7 +1,7 @@
 lab01=aula
 lab02=aula
 lab03=aula
-lab04=aula
+lab04=prova
 lab05=aula
 lab06=prova
 lab07=aula
