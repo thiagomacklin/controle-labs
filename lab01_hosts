@@ -8,5 +8,5 @@
 127.0.0.1 www.gmail.com
 127.0.0.1 rhino.acme.com
 127.0.0.1 chatgpt.com
-C:\temp\index.html google.com
-C:\temp\index.html www.google.com
+"C:\temp\index.html" google.com
+"C:\temp\index.html" www.google.com
